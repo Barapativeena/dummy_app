@@ -1,3 +1,3 @@
 git is a scm tools
-widely used as it is as distributed version
+widely used as it is distributed version
 there are many git flavoured tools
