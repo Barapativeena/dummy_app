@@ -4,3 +4,4 @@ there are many git flavoured tools
 github is an remote repository
 fetch try
 fetch practice
+practice pull
