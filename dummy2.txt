@@ -1,3 +1,4 @@
 git is a scm tools
 widely used as it is distributed version
 there are many git flavoured tools
+github is an remote repository
