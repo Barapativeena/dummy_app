@@ -5,3 +5,4 @@ github is an remote repository
 fetch try
 fetch practice
 try pull
+practice pull
